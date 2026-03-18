@@ -5,7 +5,6 @@
 This project compares Machine Learning and Deep Learning models for predicting employee performance using HR dataset.
 
 ## 📊 Models Used
-- Linear Regression
 - Random Forest
 - BiLSTM
 - LiGRU
